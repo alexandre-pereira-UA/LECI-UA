@@ -9,7 +9,8 @@ Licenciatura em Engenharia de Computadores e Informática
 
 * [Álgebra Linear e Geometria Analítica - A(ALGA-A)](#)
 * [Cálculo I - C(CI-C)](#)  
-* [Fundamentos de Programação(FP)](#)
+* [Fundamentos de Programação(FP)](#) - * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 * [Introdução aos sistemas digitais(ISD)](#) - 
 * [Introdução a Engenharia de Computadores e Informática(IECI)](#)
 
