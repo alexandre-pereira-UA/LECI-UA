@@ -18,7 +18,7 @@ Licenciatura em Engenharia de Computadores e Informática
 
 * [Matemática Discreta(MD)](#)
 * [Laboratório de Sistemas Digitais(LSD)](#)
-* [Programação orientada a objetos(POO)](#) -  <img src="![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)" height="25" align="center">
+* [Programação orientada a objetos(POO)](#) -  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25" align="center">
 * [Cálculo II - C(CI-II)](#)
 * Laboratórios de Sistemas e Serviços(LSS)
 
@@ -27,7 +27,7 @@ Licenciatura em Engenharia de Computadores e Informática
 
 * [Algorítmos e Estrutura de Dados(AED)](#)
 * [Competências Transferíveis I(CT-I)](#)
-* [Arquitetura de Computadores I(AC-I)](#)
+* [Arquitetura de Computadores I(AC-I)](#) - <img src="https://img.shields.io/badge/MIPS%20Assembly-%23005299.svg?style=for-the-badge" height="25" align="center">
 * [Redes de Comunicaçôes I(RC-I)](#)
 * [Mecânica e Campo Eletromagnético(MCE)](#)
  
