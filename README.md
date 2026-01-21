@@ -17,7 +17,7 @@ Licenciatura em Engenharia de Computadores e Informática
 ##  🥈2ºSemestre
 
 * [Matemática Discreta(MD)](#)
-* [Laboratório de Sistemas Digitais(LSD)](#)
+* [Laboratório de Sistemas Digitais(LSD)](#) - <img src="https://img.shields.io/badge/VHDL-%23ffa000.svg?style=for-the-badge" height="25" align="center">
 * [Programação orientada a objetos(POO)](#) -  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25" align="center">
 * [Cálculo II - C(CI-II)](#)
 * Laboratórios de Sistemas e Serviços(LSS)
@@ -25,7 +25,7 @@ Licenciatura em Engenharia de Computadores e Informática
 # 🧒🏻2ºAno:
 ##  🥇1ºSemestre
 
-* [Algorítmos e Estrutura de Dados(AED)](#)
+* [Algorítmos e Estrutura de Dados(AED)](#) - <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25" align="center"> - <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25" align="center">
 * [Competências Transferíveis I(CT-I)](#)
 * [Arquitetura de Computadores I(AC-I)](#) - <img src="https://img.shields.io/badge/MIPS%20Assembly-%23005299.svg?style=for-the-badge" height="25" align="center">
 * [Redes de Comunicaçôes I(RC-I)](#)
