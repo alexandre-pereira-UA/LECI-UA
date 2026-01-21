@@ -1,39 +1,31 @@
-# LECI
+# 🎓LECI
 
 Universidade de Aveiro
 
 Licenciatura em Engenharia de Computadores e Informática
 
-2023->2026
+## 👶🏻1ºAno:
+#  🥇1ºSemestre
 
-## 📌 Best to check:
-<hr>
+* [Álgebra Linear e Geometria Analítica - A(ALGA-A)](#)
+* [Cálculo I - C(CI-C)](#)  
+* [Fundamentos de Programação(FP)](#)
+* [Introdução aos sistemas digitais(ISD)](#) - 
+* [Introdução a Engenharia de Computadores e Informática(IECI)](#)
 
-* [LSD](#) - Aulas práticas e avaliações em código VHDL
-* [POO](#) - Aulas práticas e avaliações em código Java
-* [AC-I](#) - Aulas práticas e teste tipo em código Assembly para MIPS, e alguns docs para TP
-* [RC-I](#) - Desenvolvimento do projeto, sockets em Python e algumas resposta de guiões
-* [AC-II](#) - Aulas práticas e exercícios de preparação para Testes P em código Assembly e C
-* [AS](#) - Portfólio da Componente Prática (Resolução de Guiões + Projeto)
+#  🥈2ºSemestre
 
-## 📌 Projetos (noutros repositórios):
-<hr>
+* [Matemática Discreta(MD)](#)
+* [Laboratório de Sistemas Digitais(LSD)](#)
+* [Programação orientada a objetos(POO)](#)
+* [Cálculo II - C(CI-II)](#)
+* [Laboratórios de Sistemas e Serviços(LSS)](#)
+
+
+
+## ![alt text](image.png)Segundo Ano:
+# 
 
 * [LSD](#)
 * [AED-2](#)
 * [AS-Incremento1](#)
-
-## 📌 Also good:
-<hr>
-
-* [AED](#) - Primeiro projeto e código da primeira metade das aulas práticas em C
-* [CT](#) - Trabalhos das Competências Transferíveis de IO(CT-II), TCA(CT-I) e DT(CT-I)
-* [RC-II](#) - Teste TP 2024/25 e Teste Treino (3 e 4) P com respostas
-
-## 📌 Others UCs:
-<hr>
-
-* [FP](#) - Código para preparação de exames e código dos projetos em Python
-* [IEI](#) - Projetos (ver apenas 2º - HTML, CSS e JavaScript)
-* [ISD](#) - Alguns ficheiros .bdf das aulas P
-* [LABI](#) - Resolução de exercícios dos guiões
