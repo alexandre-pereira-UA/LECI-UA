@@ -18,7 +18,7 @@ Licenciatura em Engenharia de Computadores e Informática
 
 * [Matemática Discreta(MD)](#)
 * [Laboratório de Sistemas Digitais(LSD)](#)
-* [Programação orientada a objetos(POO)](#)
+* [Programação orientada a objetos(POO)](#) -  <img src="![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)" height="25" align="center">
 * [Cálculo II - C(CI-II)](#)
 * Laboratórios de Sistemas e Serviços(LSS)
 
