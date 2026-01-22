@@ -6,7 +6,7 @@ Licenciatura em Engenharia de Computadores e Informática
 
 2023 -> 2027
 
-# 👶🏻1ºAno:
+# ✏️1ºAno:
 ##  🥇1ºSemestre
 
 * [Álgebra Linear e Geometria Analítica - A (ALGA-A)](./1ºano/1ºsemestre/ALGA-A)
@@ -24,7 +24,7 @@ Licenciatura em Engenharia de Computadores e Informática
 * Cálculo II - C(CI-II)
 * Laboratórios de Sistemas e Serviços(LSS)
 
-# 🧒🏻2ºAno:
+# 💻2ºAno:
 ##  🥇1ºSemestre
 
 * [Algorítmos e Estrutura de Dados(AED)](#) - <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25" align="center"> - <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25" align="center">
@@ -44,7 +44,7 @@ Licenciatura em Engenharia de Computadores e Informática
 * Redes de Comunicaçôes II(RC-II)
 * Sensores e Sinais(SS)
 
-# 🧔🏻3ºAno:
+# 📚3ºAno:
 ##  🥇1ºSemestre
 
 * [Inteligência Artificial(IA)](./3ºano/1ºsemestre/IA) - <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25" align="center">
