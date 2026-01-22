@@ -27,9 +27,9 @@ Licenciatura em Engenharia de Computadores e Informática
 
 * [Algorítmos e Estrutura de Dados(AED)](#) - <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25" align="center"> - <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25" align="center">
 * [Competências Transferíveis I(CT-I)](#)
-    * [Empreendorismo(ENN)](./2ºano/1ºsemestre/ENN)
-    * [Gestão de Projetos(GP)](./2ºano/1ºsemestre/GP)
-    * [Técnicas de Comunicação e Apresentações(TCA)](./2ºano/1ºsemestre/TCA)
+    * [Empreendorismo(ENN)](./2ºano/1ºsemestre/CT-I/ENN)
+    * [Gestão de Projetos(GP)](./2ºano/1ºsemestre/CT-I/GP)
+    * [Técnicas de Comunicação e Apresentações(TCA)](./2ºano/1ºsemestre/CT-I/TCA)
 * [Arquitetura de Computadores I(AC-I)](./2ºano/1ºsemestre/AC-I) - <img src="https://img.shields.io/badge/MIPS%20Assembly-%23005299.svg?style=for-the-badge" height="25" align="center">
 * [Redes de Comunicaçôes I(RC-I)](./2ºano/1ºsemestre/RC-I) - <img src="https://img.shields.io/badge/GNS3-132B40?style=for-the-badge&logo=gns3&logoColor=white" height="25" align="center"> - <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="25" align="center">
 * [Mecânica e Campo Eletromagnético(MCE)](#)
