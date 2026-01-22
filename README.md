@@ -4,6 +4,8 @@ Universidade de Aveiro
 
 Licenciatura em Engenharia de Computadores e Informática
 
+2023 -> 2027
+
 # 👶🏻1ºAno:
 ##  🥇1ºSemestre
 
