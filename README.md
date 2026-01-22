@@ -12,7 +12,7 @@ Licenciatura em Engenharia de Computadores e Informática
 * [Fundamentos de Programação(FP)](#) - <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25" align="center">
 
 * [Introdução aos sistemas digitais(ISD)](#) - 
-* [Introdução a Engenharia de Computadores e Informática(IECI)](#)
+* [Introdução a Engenharia de Computadores e Informática(IECI)](#) - <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25" align="center">
 
 ##  🥈2ºSemestre
 
@@ -27,7 +27,8 @@ Licenciatura em Engenharia de Computadores e Informática
 
 * [Algorítmos e Estrutura de Dados(AED)](#) - <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="25" align="center"> - <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25" align="center">
 * [Competências Transferíveis I(CT-I)](#)
-* [Arquitetura de Computadores I(AC-I)](#) - <img src="https://img.shields.io/badge/MIPS%20Assembly-%23005299.svg?style=for-the-badge" height="25" align="center">
+    * 
+* [Arquitetura de Computadores I(AC-I)](./2ºano/1ºsemestre/AC-I) - <img src="https://img.shields.io/badge/MIPS%20Assembly-%23005299.svg?style=for-the-badge" height="25" align="center">
 * [Redes de Comunicaçôes I(RC-I)](./2ºano/1ºsemestre/RC-I) - <img src="https://img.shields.io/badge/GNS3-132B40?style=for-the-badge&logo=gns3&logoColor=white" height="25" align="center"> - <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="25" align="center">
 * [Mecânica e Campo Eletromagnético(MCE)](#)
  
@@ -42,7 +43,7 @@ Licenciatura em Engenharia de Computadores e Informática
 # 🧔🏻3ºAno:
 ##  🥇1ºSemestre
 
-* [Inteligência Artificial(IA)](#) - <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25" align="center">
+* [Inteligência Artificial(IA)](./3ºano/1ºsemestre/IA) - <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25" align="center">
 * Sistemas de Operação(SO)
 * [Análise de Sistemas(AS)](#)
 * Dispositivos Conectados(DC)
