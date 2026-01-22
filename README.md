@@ -8,7 +8,7 @@ Licenciatura em Engenharia de Computadores e Informática
 ##  🥇1ºSemestre
 
 * [Álgebra Linear e Geometria Analítica - A (ALGA-A)](./1ºano/1ºsemestre/ALGA-A)
-* [Cálculo I - C (CI-C)](./1ºano/1ºsemestre/CI - C)  
+* [Cálculo I - C (CI-C)](./1ºano/1ºsemestre/CI-C)  
 * [Fundamentos de Programação (FP)](./1ºano/1ºsemestre/FP) - <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25" align="center">
 
 * Introdução aos sistemas digitais (ISD)
@@ -48,7 +48,7 @@ Licenciatura em Engenharia de Computadores e Informática
 * [Inteligência Artificial(IA)](./3ºano/1ºsemestre/IA) - <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25" align="center">
 * Sistemas de Operação(SO)
 * Análise de Sistemas(AS)
-* Dispositivos Conectados(DC)
+* Dispositivos Conectados(DC)       
 * Segurança Informática e nas Comunicações(SIC)
 
 ##  🥈2ºSemestre
