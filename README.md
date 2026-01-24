@@ -13,15 +13,15 @@ Licenciatura em Engenharia de Computadores e Informática
 * [Cálculo I - C (CI-C)](./1ºano/1ºsemestre/CI-C)  
 * [Fundamentos de Programação (FP)](./1ºano/1ºsemestre/FP) - <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25" align="center">
 
-* Introdução aos sistemas digitais (ISD)
+* Introdução aos sistemas digitais (ISD) - <img src="https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white" height="25" align="center">
 * [Introdução a Engenharia de Computadores e Informática (IECI)](#) - <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25" align="center">
 
 ##  🥈2ºSemestre
 
-* Matemática Discreta(MD)
-* [Laboratório de Sistemas Digitais(LSD)](#) - <img src="https://img.shields.io/badge/VHDL-%23ffa000.svg?style=for-the-badge" height="25" align="center">
+* [Matemática Discreta(MD)](./1ºano/2ºsemestre/MD/)
+* Laboratório de Sistemas Digitais(LSD) - <img src="https://img.shields.io/badge/VHDL-%23ffa000.svg?style=for-the-badge" height="25" align="center">
 * [Programação orientada a objetos(POO)](#) -  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25" align="center">
-* Cálculo II - C(CI-II)
+* [Cálculo II - C(CI-II)](./1ºano/2ºsemestre/CII-C/)
 * Laboratórios de Sistemas e Serviços(LSS)
 
 # 💻2ºAno:
@@ -47,7 +47,8 @@ Licenciatura em Engenharia de Computadores e Informática
 # 📚3ºAno:
 ##  🥇1ºSemestre
 
-* [Inteligência Artificial(IA)](./3ºano/1ºsemestre/IA) - <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="25" align="center">
+* [Inteligência Artificial(IA)](./3ºano/1ºsemestre/IA) - <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25" align="center">
+
 * Sistemas de Operação(SO)
 * Análise de Sistemas(AS)
 * Dispositivos Conectados(DC)       
