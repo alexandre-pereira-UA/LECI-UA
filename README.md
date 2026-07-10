@@ -38,10 +38,10 @@ Licenciatura em Engenharia de Computadores e Informática
  
 ##  🥈2ºSemestre
 
-* Métodos Probabilísticos para Engenharia de Computadores e Informáica(MPEI)
+* [Métodos Probabilísticos para Engenharia de Computadores e Informáica(MPECI)](./2ºano/2ºsemestre/MPECI)
 * [Competências Transferíveis II(CT-II)](#)
-* Arquitetura de Computadores II(AC-II)
-* Redes de Comunicaçôes II(RC-II)
+* [Arquitetura de Computadores II(AC-II)](./2ºano/2ºsemestre/AC-II)
+* [Redes de Comunicaçôes II(RC-II)](./2ºano/2ºsemestre/RC-II)
 * Sensores e Sinais(SS)
 
 # 📚3ºAno:
@@ -57,7 +57,7 @@ Licenciatura em Engenharia de Computadores e Informática
 ##  🥈2ºSemestre
 
 * Base de Dados(BD)
-* Linguagens Formais e Autómatos(LFA)
+* [Linguagens Formais e Autómatos(LFA)](./3ºano/2ºsemestre/LFA)
 * Projeto em Engenharia de Computadores e Informática(PECI)
-* Opção I
+* [Opção I(TPW)](./3ºano/2ºsemestre/TPW) - <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25" align="center">
 
